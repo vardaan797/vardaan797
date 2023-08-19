@@ -1,0 +1,10 @@
+# robots.txt valid by devsattamatka.online
+User-agent: *
+Disallow: 
+Disallow: /cgi-bin/
+Disallow: /apppppp/
+Disallow: /ad_personal/
+Disallow: /login/
+
+Sitemap: https://devsattamatka.online/sitemap.xml
+
